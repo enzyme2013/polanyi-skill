@@ -176,7 +176,7 @@
 
 - **Harry Prosch** 撰写了《Michael Polanyi: A Critical Exposition》（SUNY Press, 1986）。
 
-**评估���式**
+**评估方式**
 
 - Prosch 的书被描述为"批判性阐释"，解释了 Polanyi 关注的许多不同主题如何作为其努力的基本要素结合在一起，以充当"现代心智疾病"的医生。
 
@@ -269,7 +269,7 @@
 - 影响力不如 Kuhn
 - 概念清晰度不如 Wittgenstein
 
-## 九、结论��一个复杂的遗产
+## 九、结论：一个复杂的遗产
 
 Michael Polanyi 的学术遗产是复杂且充满争议的：
 

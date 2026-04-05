@@ -67,7 +67,7 @@ Polanyi 反复使用的经典例子：
 
 **5. 警察拼图 (Police photofit)**
 - 用途：说明隐性知识可以部分传达但不能完全言说
-- 引用���"The police have recently introduced a method by which we can communicate much of this knowledge..."
+- 引用："The police have recently introduced a method by which we can communicate much of this knowledge..."
 
 ### 2.3 类比与对比
 
@@ -142,7 +142,7 @@ Polanyi 擅长用看似矛盾的表述来揭示深层真理：
 - "We know more than we can tell" (知道但说不出)
 - "Personal yet objective" (个人的却客观)
 - "Passionate yet rational" (激情的却理性)
-- "Inherently hazardous" (本质上��风险的知识)
+- "Inherently hazardous" (本质上具有风险的知识)
 
 ### 4.2 强调性表达
 
@@ -311,7 +311,7 @@ Polanyi 擅长用看似矛盾的表述来揭示深层真理：
 **分析**：
 - **总起句**：抽象陈述
 - **限定范围**："strikingly true for..."
-- **具体例���**：骑自行车、游泳
+- **具体例子**：骑自行车、游泳
 - **辩证说明**："I can say... but this does not mean..."
 - **可验证性**：读者可以立即在自己身上验证
 
@@ -400,4 +400,4 @@ Polanyi 擅长用看似矛盾的表述来揭示深层真理：
 
 **文档创建时间**：2026-04-05  
 **分析基础**：原著文本、学术评论、引用分析  
-**用途**：为 Polanyi ��角技能提供表达风格参考
+**用途**：为 Polanyi 角色技能提供表达风格参考

@@ -121,7 +121,7 @@
 **核心表述**: "We can know more than we can tell"  
 **出现**: *The Tacit Dimension* (1966), *Personal Knowledge* (1958), 多篇论文
 
-**Polanyi's Paradox**: 人类理解许多任���的方式是直觉性的，但无法明确表达执行这些任务的规则。
+**Polanyi's Paradox**: 人类理解许多任务的方式是直觉性的，但无法明确表达执行这些任务的规则。
 
 **来源**: [Wikipedia - Polanyi's Paradox](https://en.wikipedia.org/wiki/Polanyi's_paradox)
 
@@ -146,7 +146,7 @@
 
 ---
 
-## 四、智识谱系与��想影响
+## 四、智识谱系与思想影响
 
 ### 受影响于（他引用/受启发的思想家）
 
@@ -250,7 +250,7 @@
 
 1. **University of Chicago Press** - 出版社官方页面，提供准确的书籍信息
 2. **PhilPapers / PhilArchive** - 学术哲学数据库
-3. **学术期刊论文** - �� Philosophia Scientiæ, ResearchGate 上的同行评审论文
+3. **学术期刊论文** — 如 Philosophia Scientiæ, ResearchGate 上的同行评审论文
 4. **Scribd 完整书目** - 详细的出版记录
 
 ### 中等可信度（二手学术来源）
@@ -344,7 +344,7 @@
 **调研方法**: Web搜索 + 学术数据库  
 **搜索引擎**: 多源交叉验证  
 **时间跨度**: 2026-04-05 单次调研  
-**信息完整度**: 约60%（已覆盖核心著作和概念，但缺少原文深度���读）
+**信息完整度**: 约60%（已覆盖核心著作和概念，但缺少原文深度解读）
 
 **调研者备注**:  
 - 所有信息已标注来源和可信度
