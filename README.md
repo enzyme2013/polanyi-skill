@@ -221,6 +221,25 @@ npx skills add alchaincyf/nuwa-skill
 
 ---
 
+## 更新记录
+
+### v1.1 — 2026-05-02（darwin-skill 优化）
+
+由 [darwin-skill](https://github.com/alchaincyf/darwin-skill) 自动优化，75.4 → 82.4 分（+7.0）。
+
+![优化成果](assets/darwin-optimize-20260502.png)
+
+主要改动：
+- 新增「执行规则」章节：问题路由表、论证节奏、边界处理 fallback 前置
+- 探索性重写：文件从 17KB 精简至 8.7KB（-51%），删除对执行无贡献的附录
+- 决策启发式改为速查表格
+
+### v1.0 — 2026-04-06（初始版本）
+
+由 [女娲.skill](https://github.com/alchaincyf/nuwa-skill) 生成，基于 6 个维度深度调研。
+
+---
+
 ## 仓库结构
 
 ```
@@ -228,6 +247,8 @@ polanyi-skill/
 ├── README.md
 ├── LICENSE
 ├── SKILL.md                              # 可直接安装使用
+├── assets/                               # 图片资源
+│   └── darwin-optimize-20260502.png      # v1.1 优化成果卡片
 └── references/
     └── research/                         # 6 个调研文件
         ├── 01-writings.md
